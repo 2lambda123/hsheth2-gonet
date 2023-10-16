@@ -15,7 +15,7 @@ To install `GoNet`:
 1. Run `go get github.com/hsheth2/gonet`
 2. In the directory, run `make`. 
 
-You can use its functionallity by importing it in your own projects. See the GoDoc for documentation. 
+You can use its functionality by importing it in your own projects. See the GoDoc for documentation. 
 
 We also included a simple demo application: a basic HTTP server. Once you have run `make` in the `GoNet` source directory, there will be an executable called `gohttp` in your Go bin. This executable will run the HTTP server, and will serve the files in whatever directory it is run in. 
 
